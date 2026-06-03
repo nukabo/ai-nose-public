@@ -1,4 +1,4 @@
-# AI Nose — Public support & documentation
+# AI Nose - Public support & documentation
 
 This is the public repository for the **AI Nose** browser extension. The core source code of the extension is private, but this repository serves as the public hub for support, feedback, and legal documentation.
 
